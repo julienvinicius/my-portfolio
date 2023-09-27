@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('./assets/img.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .about {
+    color: white;
+  }
+
+  .projects {
+    color: white;
+  }
+  
+  .contact {
+    color: white;
+  }
+  
+  .section {
+    padding: 40px 0;
+  }
+  
+  .section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
